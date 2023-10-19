@@ -1,0 +1,108 @@
+/*
+div {
+  background-color: #3FA796;
+}
+*/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.top_container {
+  padding-top: 100px;
+  background-color: #3FA796;
+}
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #2A0944;
+  line-height: 4;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #2A0944;
+  font-weight: normal;
+}
+h3 {
+  color: #FEC260;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.down-cloud{
+  position: absolute;
+  left: 100px;
+  top: 100px;
+}
+.up-cloud{
+  position: relative;
+  left: 390px;
+  top: 200px;
+}
+
+.middle-container{
+  background-color: white;
+}
+.bottom-container{
+  background-color: white;
+  padding: 10px 20px 10px 20px;
+  line-height: 2;
+  background-color: #3FA796;
+  margin-top: 90px;
+}
+.profile-photo {
+  width: 200px;
+}
+.computer {
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+  padding: 30px;
+}
+.basketball {
+  border-radius: 50%;
+  width: 25%;
+  float: right;
+  padding: 30px;
+}
+#twitter {
+  color: #F24C4C;
+}
+.contact-me {
+  line-height: 2;
+}
+#website {
+  color: #F77E21;
+}
+#linkin {
+  color: #1A3C40;
+}
+hr {
+  border-style: dotted none none none;
+  border-color: #66BFBF;
+  border-width: thick;
+  width: 6%;
+  margin: 80px auto 80px auto;
+}
+.downer {
+  padding-bottom: 90px;
+}
+.btn {
+  background: #3FA796;
+  font-family: Arial;
+  color: #2A0944;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 100px;
+}
+
+.btn:hover {
+  background: #66BFBF;
+  text-decoration: none;
+}
